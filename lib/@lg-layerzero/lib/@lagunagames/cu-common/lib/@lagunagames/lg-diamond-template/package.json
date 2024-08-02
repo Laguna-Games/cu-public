@@ -1,0 +1,16 @@
+{
+    "name": "@lagunagames/lg-diamond-template",
+    "version": "1.0.0",
+    "description": "Reference implementation for Laguna Games' ERC-2535 Diamond smart contracts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Laguna-Games/lg-diamond-template.git"
+    },
+    "keywords": [ ],
+    "author": "Rob Sampson <rsampson@laguna.games> (https://laguna.games/)",
+    "license": "MIT",
+    "homepage": "https://github.com/Laguna-Games/lg-diamond-template"
+}

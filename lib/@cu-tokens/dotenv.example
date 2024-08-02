@@ -1,0 +1,35 @@
+# ==============================================================================
+#  Save a copy of this file named `.env`
+# ==============================================================================
+
+PRIVATE_KEY=<wallet signing key>
+
+# BLOCKCHAIN RPC PROVIDERS
+ETHEREUM_RPC="https://mainnet.infura.io/v3/"
+SEPOLIA_RPC="https://ethereum-sepolia.publicnode.com"
+POLYGON_RPC="https://polygon-rpc.com"
+MUMBAI_RPC="https://polygon-mumbai-bor.publicnode.com"
+XAI_MAINNET_RPC="https://xai-chain.net/rpc"
+XAI_SEPOLIA_RPC="https://testnet-v2.xai-chain.net/rpc"
+XAI_GOERLI_RPC="https://testnet.xai-chain.net/rpc"
+ARB_SEPOLIA_RPC="https://sepolia-rollup.arbitrum.io/rpc"
+ARB_GOERLI_RPC="https://goerli-rollup.arbitrum.io/rpc"
+
+# BLOCK EXPLORER API KEYS
+ETHERSCAN_API_KEY="<ETHERSCAN_API_KEY>"
+SEPOLIASCAN_API_KEY="<SEPOLIASCAN_API_KEY>"
+POLYGONSCAN_API_KEY="<POLYGONSCAN_API_KEY>"
+MUMBAISCAN_API_KEY="<MUMBAISCAN_API_KEY>"
+XAI_BLOCKSCOUT_API_KEY="<XAI_BLOCKSCOUT_API_KEY>"
+XAI_SEPOLIA_BLOCKSCOUT_API_KEY="<XAI_SEPOLIA_BLOCKSCOUT_API_KEY>"
+XAI_GOERLI_BLOCKSCOUT_API_KEY="<XAI_GOERLI_BLOCKSCOUT_API_KEY>"
+ARBITRUM_SEPOLIA_API_KEY="<ARBITRUM_SEPOLIA_API_KEY>"
+ARBITRUM_GOERLI_API_KEY="<ARBITRUM_GOERLI_API_KEY>"
+
+# PRE-DEPLOYED FACETS - Arbitrum Sepolia chainId 421614
+# DIAMOND_CUT_FACET="0x7e2765d3D9ed15E8745320b729c666dAE71a19bb"
+# DIAMOND_LOUPE_FACET="0x2cA844b96c3Ef044C626d2D30b2FcbD675EA30DC"
+# DIAMOND_PROXY_FACET="0xCe53e97461401D7c34a72b1555A4904Fb5c97e88"
+# DIAMOND_OWNER_FACET="0x48420aeE07a3728ABF872958Dc011965E5B56291"
+# SUPPORTS_INTERFACE_FACET="0x630457Db4D186df9A58b50070039e913df58aB04"
+# DUMMY_INTERFACE_CONTRACT="0xAefB304AA342586DEC338a344AaDc21bc6468528"

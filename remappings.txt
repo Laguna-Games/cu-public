@@ -1,0 +1,16 @@
+@cu-common/=lib/@cu-tokens/lib/@lagunagames/cu-common/
+@cu-tokens/=lib/@cu-tokens/
+@lagunagames/=lib/@lagunagames/
+@lagunagames/lg-diamond-template/=lib/@lagunagames/lg-diamond-template/
+@layerzerolabs/=lib/@layerzerolabs/
+@lg-arb-bridge/=lib/@lg-arb-bridge/src/
+@lg-diamond-template/=lib/@lagunagames/lg-diamond-template/
+@lg-layerzero/=lib/@lg-layerzero/src/
+@openzeppelin-contracts/=lib/@cu-tokens/lib/openzeppelin-contracts/
+@openzeppelin/=lib/@openzeppelin/
+ds-test/=lib/@cu-tokens/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/@openzeppelin/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/@cu-tokens/lib/openzeppelin-contracts/
+openzeppelin/=lib/@openzeppelin/contracts/
+solidity-stringutils/=lib/@lagunagames/lg-diamond-template/lib/solidity-stringutils/
